@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sfml-box2d.vcxproj -> C:\Users\kar92\Desktop\dev\cpp\sfml-box2d\build\Release\x64\sfml-box2d.exe
