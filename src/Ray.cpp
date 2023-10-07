@@ -14,14 +14,15 @@ Ray::Ray(const sf::Vector2f& startPos, float angle)
 	// direction from angle
 	m_dir = sf::Vector2f{ std::cos(m_angle), std::sin(m_angle) };
 
+	// set color
 	m_ray[0].position = m_start;
 	m_ray[1].position = m_end;
 
-	m_ray[0].color = sf::Color::Cyan;
-	m_ray[0].color.a = 50;
+	m_ray[0].color = sf::Color::White;
+	m_ray[0].color.a = 40;
 	
 	m_ray[1].color = sf::Color::White;
-	m_ray[1].color.a = 25;
+	m_ray[1].color.a = 20;
 }
 
 Ray::~Ray()
