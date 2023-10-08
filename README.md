@@ -26,3 +26,6 @@ sudo apt-get install libsfml-dev cmake
 Run `./run.sh`
 
 ---
+
+![Screenshot from 2023-10-08 13-34-02](https://github.com/Karansemwal/Ray-Caster/assets/96228962/3394d41e-6af2-4c07-95d0-8a6bc9fbeceb)
+
