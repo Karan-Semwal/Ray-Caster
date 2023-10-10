@@ -19,7 +19,7 @@ Double click the project solution file (`Ray Caster.sln`) to open the project in
 ### Install Dependencies
 
 ```
-sudo apt-get install libsfml-dev cmake
+sudo apt-get install build-essential libsfml-dev cmake
 ```
 
 
